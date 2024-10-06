@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@font-face {
+    font-family: 'Kaspersky Sans Display';
+    src: url('/fonts/kaspersky-sans-display/regular/KasperskySansDisplay-Rg.eot');
+    src: local('Kaspersky Sans Display Regular'), local('KasperskySansDisplay-Regular'),
+        url('/fonts/kaspersky-sans-display/regular/KasperskySansDisplay-Rg.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/kaspersky-sans-display/regular/KasperskySansDisplay-Rg.woff2') format('woff2'),
+        url('/fonts/kaspersky-sans-display/regular/KasperskySansDisplay-Rg.woff') format('woff'),
+        url('/fonts/kaspersky-sans-display/regular/KasperskySansDisplay-Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kaspersky Sans Display';
+    src: url('/fonts/kaspersky-sans-display/medium/KasperskySansDisplay-Md.eot');
+    src: local('Kaspersky Sans Display Medium'), local('KasperskySansDisplay-Medium'),
+        url('/fonts/kaspersky-sans-display/medium/KasperskySansDisplay-Md.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/kaspersky-sans-display/medium/KasperskySansDisplay-Md.woff2') format('woff2'),
+        url('/fonts/kaspersky-sans-display/medium/KasperskySansDisplay-Md.woff') format('woff'),
+        url('/fonts/kaspersky-sans-display/medium/KasperskySansDisplay-Md.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Kaspersky Sans Display';
+    src: url('/fonts/kaspersky-sans-display/semibold/KasperskySansDisplay-SmBd.eot');
+    src: local('Kaspersky Sans Display SemiBold'), local('KasperskySansDisplay-SemiBold'),
+        url('/fonts/kaspersky-sans-display/semibold/KasperskySansDisplay-SmBd.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/kaspersky-sans-display/semibold/KasperskySansDisplay-SmBd.woff2') format('woff2'),
+        url('/fonts/kaspersky-sans-display/semibold/KasperskySansDisplay-SmBd.woff') format('woff'),
+        url('/fonts/kaspersky-sans-display/semibold/KasperskySansDisplay-SmBd.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
